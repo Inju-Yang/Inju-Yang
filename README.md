@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **Inju-Yang/Inju-Yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +14,4 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=inyang😘&fontSize=70)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inju-Yang&layout=compact)
+![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/inyang?privacyEmail=true)
