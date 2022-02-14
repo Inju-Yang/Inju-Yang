@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=inyang😘&fontSize=55)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inju-Yang&layout=compact)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=This&nbsp;is&nbsp;inyang&nbsp;🌿&fontSize=55)
+- 🌱 I'm currently studying in 42Seoul.<br>
 ![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/inyang?privacyEmail=true)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inju-Yang&layout=compact)
